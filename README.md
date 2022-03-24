@@ -4,7 +4,6 @@ This repository contains the code for paper "Simultaneously Learning Architectur
 
 ## Usage
 
-# Usage
 
 ##### Clone this repo
 ```bash

@@ -1,6 +1,6 @@
 ## Simultaneously Learning Architectures and Features of Deep Neural Networks
 
-This repository contains the code for paper "Simultaneously Learning Architectures and Features of Deep Neural Networks, ICANN 2019". 
+This repository contains a reimplementation for paper "Simultaneously Learning Architectures and Features of Deep Neural Networks, ICANN 2019". 
 
 ## Usage
 
